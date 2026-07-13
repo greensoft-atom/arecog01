@@ -1,6 +1,6 @@
 # arecog01
 
-## STT
+## STT project
 https://drive.google.com/file/d/1ef1T1dEFzQf5ZHo7SdHRbyTKTikFTkIP/view?usp=sharing
 
 ## model large
