@@ -8,3 +8,6 @@ https://drive.google.com/file/d/1dQNV4xxpFpazdfGPyiyM2yECjBPHJEYI/view?usp=shari
 
 ## metronic
 https://drive.google.com/file/d/1AxQBN5S0chBZ8m6GyGAukvaF3f2-_3nq/view?usp=sharing
+
+## xammp & php
+https://drive.google.com/file/d/1_d5cNCfWlsZBeoqpwkhh4O1z4g-rRyie/view?usp=sharing
